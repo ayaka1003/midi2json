@@ -1,0 +1,5 @@
+git clone https://github.com/mateusdelbianco/midi2json.git
+cd midi2json
+gem install midilib
+gem install midi_lyrics
+gem install json
